@@ -1,19 +1,22 @@
-<div align="center">
+<div align="center"> <!-- Title -->
 
   ### _"This is the greatest rush. God access. The feeling never gets old."_ ### 
 
 </div>
-<div align="center">
+<div align="center"><!-- phrase -->
 
    ⚡ _All you need is #!/bin/bash_
 
 </div>
 
-<div align="center">
+<div align="center"> <!-- Status -->
   <a href="https://github.com/Jeferson-SR">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=onedark">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-SR&layout=compact&langs_count=10&theme=onedark">
 </div>
+  
+  ##
+  
 <div align="center"> <!--Lang icons-->
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -32,3 +35,4 @@
   <a href="https://www.instagram.com/jeferson_srd/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
   
+![snake gif](https://github.com/Jeferson-SR/Jeferson-SR/blob/output/github-contribution-grid-snake.svg)
