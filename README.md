@@ -5,15 +5,13 @@
 </div>
 <div align="center">
 
-  - ⚡ _All you need is #!/bin/bash_
+   ⚡ _All you need is #!/bin/bash_
 
 </div>
 
 <div align="center">
   <a href="https://github.com/Jeferson-SR">
-  <!--Stats-->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=dracula&hide=stars">
-  <!--Languages--> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=dark">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-SR&layout=compact&langs_count=10&theme=dracula">
 </div>
 <div align="center"> <!--Lang icons-->
