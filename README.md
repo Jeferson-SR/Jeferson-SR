@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/Jeferson-SR">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=dark">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-SR&layout=compact&langs_count=10&theme=dracula">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=onedark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-SR&layout=compact&langs_count=10&theme=onedark">
 </div>
 <div align="center"> <!--Lang icons-->
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
