@@ -1,4 +1,4 @@
-<div><!--Redes Sociais-->
+<div align="center"><!--Redes Sociais-->
   <a href="https://www.linkedin.com/in/jeferson-sr/" target="_blank"><img alt="linkedin-logo" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/profile.php?id=100008085399946" target="_blank"><img alt="facebook-logo" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/jeferson_srd/" target="_blank"><img alt="instagram-logo" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -7,6 +7,9 @@
 <div align="center"> <!-- Title -->
   
   ### Jeferson S. Rodrigues ###
+  
+  ##
+  
   ### Desenvolvedor Back-End ###
 
 </div>
