@@ -7,7 +7,6 @@
 <div align="center"> <!-- Title -->
   
   ###  Desenvolvedor Back-End ###
-  ###  Atualmente cursando Segurança da Informação na Fatec de Ourinhos ###
 
 </div>
 <div align="center"><!-- phrase -->
