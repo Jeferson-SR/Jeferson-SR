@@ -1,6 +1,7 @@
 <div align="center"> <!-- Title -->
-
-  ### _"This is the greatest rush. God access. The feeling never gets old."_ ### 
+  
+  ###  Desenvolvedor Back-End ###
+  ###  Atualmente cursando Segurança da Informação na Fatec de Ourinhos ###
 
 </div>
 <div align="center"><!-- phrase -->
@@ -11,8 +12,8 @@
 
 <div align="center"> <!-- Status -->
   <a href="https://github.com/Jeferson-SR">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=onedark">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-SR&layout=compact&langs_count=10&theme=onedark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=dracula&hide=prs,contribs,issues">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-SR&layout=compact&langs_count=10&theme=dracula">
 </div>
   
   ##
