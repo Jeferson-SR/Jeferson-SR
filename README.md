@@ -21,7 +21,7 @@
 
 <div align="center"> <!-- Status -->
   <a href="https://github.com/Jeferson-SR">
-    <img height="140em" style="width: 25em" alt="status-card" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=black&hide=prs,contribs,issues">
+    <img height="140em" style="width: 31em" alt="status-card" src="https://github-readme-stats.vercel.app/api?username=Jeferson-SR&show_icons=true&theme=black&hide=prs,contribs,issues">
     <img height="140em" style="width: 30em" alt="languages-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-SR&layout=compact&langs_count=10&theme=black">
 </div>
   
