@@ -56,13 +56,6 @@
 </div>
   
 ![snake gif](https://github.com/Jeferson-SR/Jeferson-SR/blob/output/github-contribution-grid-snake.svg)
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
   
-  ##
-  <div align="center">
-    
- ### :warning: TODOS OS PROJETOS APRESENTADOS SÃO DE MINHA AUTORIA :warning: ###
- ### Não está sendo apresentado abaixo em repo's públicos projetos de cursos ou outros ###
- ### Espero que goste :wave: :point_down: ###
-    
-  </div>
+  
